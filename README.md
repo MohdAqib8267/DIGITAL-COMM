@@ -1,4 +1,9 @@
 # DIGITAL-COMMUNICATION
+<img width="614" alt="Screenshot 2023-09-15 201317" src="https://github.com/MohdAqib8267/DIGITAL-COMM/assets/106628860/5395f360-a1df-4392-b27a-0abc156e897c">
+<img width="614" alt="Screenshot 2023-09-15 201340" src="https://github.com/MohdAqib8267/DIGITAL-COMM/assets/106628860/7a385e26-cc03-4d25-af3c-970eb1b609de">
+<img width="614" alt="Screenshot 2023-09-15 201601" src="https://github.com/MohdAqib8267/DIGITAL-COMM/assets/106628860/9ed83cee-d976-493e-b3e6-d9e438ff531a">
+
+# PULSE CODE MODULATION(PCM):
 <img width="600" alt="Screenshot 2023-09-15 194643" src="https://github.com/MohdAqib8267/DIGITAL-COMM/assets/106628860/806938c6-46bf-4a55-bdd8-af9bd48c6af0">
 <img width="600" alt="Screenshot 2023-09-15 194732" src="https://github.com/MohdAqib8267/DIGITAL-COMM/assets/106628860/a81ecf48-5020-4a0f-9334-ab598b404960">
 <img width="600" alt="Screenshot 2023-09-15 194747" src="https://github.com/MohdAqib8267/DIGITAL-COMM/assets/106628860/d5c0db39-5726-478f-9f3e-878e7e8b33d7">
